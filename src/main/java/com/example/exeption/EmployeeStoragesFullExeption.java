@@ -1,4 +1,4 @@
-package main.java.com.example.exeption;
+package com.example.exeption;
 
 public class EmployeeStoragesFullExeption extends RuntimeException {
 }
